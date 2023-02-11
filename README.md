@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Dennis Anim 
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning HTML & CSS(Self-study).
 - 💞️ I’m looking to collaborate on any projects to enhance my field of study(Frontend development).
 - 📫 How to reach me: anim.dennis057@gmail.com / (+233)558080556
 
